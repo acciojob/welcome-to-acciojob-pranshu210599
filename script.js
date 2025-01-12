@@ -1,1 +1,1 @@
-//your JS code here. If required.
+console.log("Page loaded successfully with 'Welcome to Accio Jobs!'");
